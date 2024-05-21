@@ -1,11 +1,18 @@
 # Getting Started with Create React App
 Gym Fitness Website
 This repository contains the source code for a gym website, implemented as a single page application (SPA) using HTML, CSS in react
- [Create React App](https://github.com/facebook/create-react-app).
+ [Create React App](https://github.com/facebook/create-react-app). <br>
  Technologies Used:
-HTML
-CSS
-React
+HTML<br> 
+CSS <br>
+React <br>
+Silent Features :
+Responsive Design.<br>
+Portfolio Template.<br>
+Unique and Dynamic Design.<br>
+Contains HOME, ABOUT, SERVICES, CONTACT US.
+
+
 
 ## Available Scripts
 
