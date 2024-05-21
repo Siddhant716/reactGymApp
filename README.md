@@ -1,6 +1,11 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Gym Fitness Website
+This repository contains the source code for a gym website, implemented as a single page application (SPA) using HTML, CSS in react
+ [Create React App](https://github.com/facebook/create-react-app).
+ Technologies Used:
+HTML
+CSS
+React
 
 ## Available Scripts
 
